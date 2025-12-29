@@ -7,18 +7,26 @@
       "java": ">=16",
       "fabric-api": "*"
     },
-    "name": "Dranergize Dragon Origin",
-    "id": "dranergize-race",
-    "version": "1.3",
-    "description": "Adds the Davwyn Murrper variant to FutaraDragon's Dranergize Dragon.",
+    "name": "Davwyn Variant Dranergize Dragon Origin",
+    "id": "davwyn-dranergize-race",
+    "version": "3.3.0",
+    "description": "Adds the Davwyn Murrper variant of FutaraDragon's Dranergize Dragon.",
+    "license": "CC-BY-4.0",
     "icon": "pack.png",
     "authors": [
-      "FutaraDragon",
-      "DavwynDragon"
+      "DavwynDragon",
+      {
+        "name": "FutaraDragon",
+        "contact": {
+          "homepage": "https://futaradragon.info",
+          "discord": "https://discord.gg/3YqyE3B",
+          "youtube": "https://www.youtube.com/@FutaraDragon"
+        }
+      }
     ],
     "contact": {
-        "website": "https://futaradragon.info",
-        "discord": "https://discord.gg/3YqyE3B",
-        "youtube": "https://www.youtube.com/c/FutaraDragon"
+      "homepage": "https://modrinth.com/mod/dranergize-dragon-origin-davwyn-murrper-variant",        
+      "sources": "https://github.com/Davwyn/Minecraft-DavwynDragon-Dranergize-Origin",
+      "youtube": "https://www.youtube.com/@Davwyn"
     }
 }
