@@ -8,7 +8,7 @@ Adds a unique dragon origin that works coupled with Figura mod to become a small
 Use your plasma breath, summon Starwisps, heal allies, and more with this custom race mod based on [FutaraDragon's Dranergize Dragon Species Origin Origin](https://modrinth.com/mod/dranergize-dragon-origin).
 
 ### Video of FutaraDragon's Origin this is based on:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zAE6wBoC_3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[FutaraDragon Dranergize Dragon Origin](https://www.youtube-nocookie.com/embed/zAE6wBoC_3o)
 
 ## Mod Dependencies
 **This mod requires:**
