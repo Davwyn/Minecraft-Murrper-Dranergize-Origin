@@ -1,4 +1,4 @@
-# Minecraft-Murrper-Dranergize-Origin
+# Minecraft-DavwynDragon-Dranergize-Origin
 A Davwyn the Murrper Dragon variant of FutaraDragon's Dranergize Minecraft Origin
 
 ## About
@@ -75,3 +75,8 @@ Davwyn's powers are plasma-based. Futara's Energy Shot is renamed to Plasma Bolt
 
 **Murrper**
 Your dragon species doesn't rawr, you 'Murrp'.
+
+# License
+License as per the same license by FutaraDragon's Mod:
+
+<a href="https://github.com/Davwyn/Minecraft-DavwynDragon-Dranergize-Origin">Minecraft Murrper Dranergize Origin</a> © 2025 by <a href="https://github.com/Davwyn">Davwyn</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
