@@ -2,81 +2,122 @@
 A Davwyn the Murrper Dragon variant of FutaraDragon's Dranergize Minecraft Origin
 
 ## About
-This project is to make a Davwyn the Murrper dragon variant to the Futara Dragon Dranergize Origin and Figura Model
 
-Futara Dragon's original Origin mod can be found here:
-https://modrinth.com/mod/dranergize-dragon-origin
+Adds a unique dragon origin that works coupled with Figura mod to become a small dragon companion with powerful plasma-based abilities.
 
-Futara Dragon's original Figura model can be found here:
-https://futaradragon.info/minecraft/file/FutaraDragon_Race_Figura_Model_v2_2_00.zip
+Use your plasma breath, summon Starwisps, heal allies, and more with this custom race mod based on [FutaraDragon's Dranergize Dragon Species Origin Origin](https://modrinth.com/mod/dranergize-dragon-origin).
 
-YouTube video of Futara Dragon's Mod:
-[Minecraft Dranergize Dragon Origin](https://www.youtube.com/watch?v=zAE6wBoC_3o)
+### Video of FutaraDragon's Origin this is based on:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zAE6wBoC_3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Mod Dependencies
+**This mod requires:**
+
+[Origins Mod](https://modrinth.com/mod/origins)
+
+[Figura Mod](https://modrinth.com/mod/figura)
+
+[Pehkui Mod](https://modrinth.com/mod/pehkui) (Optional, adjusts player hitbox)
+
+## Installing the Figura Model
+The custom Figura dragon model is required to be installed with this Origin, otherwise you won't be able to see any of the visual effects of your abilities.
+
+You can download the Figura model from either the 'other files' section here or from the GitHub Releases page here:
+[Minecraft-DavwynDragon-Dranergize-Origin Releases](https://github.com/Davwyn/Minecraft-DavwynDragon-Dranergize-Origin/releases)
+
+Look for and download the DavwynDragon_Figura_Model.zip from the releases.
+
+Once in game, from the pause screen press the Figura button (Blue triangle) to open the in-game Figura Menu.
+
+From the menu, click the folder icon, this will open a folder on your screen. Copy the entire DavwynDragon_Figura_Model.zip file into the folder (do not unzip!) then go back to the game.
+
+Click on the model from the list and wait a minute for it to load. Once it loads make sure to click the upload button so other players can see your model. Upload is at the bottom of the screen.
 
 ## Varient Changes
 The following alterations from the FutaraDragon race is as follows:
 
 **Initial Experience**
+
 You start with 10 levels of experience, enough to unlock your first ability.
 
 **Starwisps**
+
 Davwyn's Starwisps are less agressive than Futara's Energy Orbs. They do not attack most friendly or passive mobs, or mobs you've applied a name tag to. They will however attack angered mobs. They also come in a range of colours and will briefly light targets on fire.
 
 **Carnivore**
+
 You can only eat meat be it cooked or raw. Raw meat is almost as good as cooked in most cases.
 
 **Digging Claws**
+
 You can dig through soft ores, stone, sand, and dirt with your claws as if you had stone tools with your empty paws.
 
 **Limited Manipulators**
+
 You have paws and a maw which limit your ability to wield weapons. You can't swing swords or use ranged weapons.
 
 **Hunger Usage**
+
 Activities like running, jumping, and special moves that use stamina all affect your hunger.
 
 **Hunger Effect Immune**
+
 You have an resiliant stomach. Poisonous food can't give you the 'Hunger' effect.
 
 **Natural Exhustion**
+
 Beyond using up all of your stamina, running, jumping, and other activities use up your hunger bar. You'll need to eat more often when very active.
 
 **Fall Immune**
+
 Your wings protect you from any fall damage, even if you haven't unlocked flight yet.
 
 **Sneak to Climb**
+
 Once you unlock ability to climb, you need to hold the Sneak key to climb on walls.
 
 **No Horde Party**
+
 Horde Party from FutaraDragon race is removed. No surprise monsters appear.
 
 **Crystal Harvest**
+
 Your starwisp abilities allow you to convert sand into crystal.\nEither put sand on your back (Offhand), Sneak and click the 'Place' button while looking into empty space, or have someone else 'Sneak' while they 'Place' sand on you to in the order of likelihood harvest glass, tinted glass, amethyst, or quartz at random.
 
 **Starwisp Dust**
+
 Your scales are covered in soft glowing starwisp dust which can be collected.\nEither put an empty bottle on your back (Offhand), Sneak and click the 'Place' button while looking into empty space, or have someone else 'Sneak' while they 'Use' an empty bottle on you to harvest this dust into the bottle. The dust when used grants temporary night-vision by making user glow.
 
 **Low-Light Vision**
+
 In darkness your eyes will adjust giving you full night-vision. This farther expands on FutaraDragon Energy Eyes.
 
 **Glowing**
+
 Because of the starwisp dust on your scales you always give off a soft light.
 
 **Slightly shorter**
+
 You're slightly smaller than a human.\n(Requires Pehkui mod).
 
 **Plasma Beam**
+
 Davwyn's Plasma Beam is essentially identical to Futara's Hyper-Beam other than the sound it makes.
 
 **Plasma Blast**
+
 Davwyn's powers are plasma-based. Futara's Plasma Blast is renamed to Plasma Blast.
 
 **Plasma Bolt**
+
 Davwyn's powers are plasma-based. Futara's Energy Shot is renamed to Plasma Bolt.
 
 **Murrper**
+
 Your dragon species doesn't rawr, you 'Murrp'.
 
 # License
+
 License as per the same license by FutaraDragon's Mod:
 
 <a href="https://github.com/Davwyn/Minecraft-DavwynDragon-Dranergize-Origin">Minecraft DavwynDragon Dranergize Origin</a> © 2025 by <a href="https://github.com/Davwyn">Davwyn</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
