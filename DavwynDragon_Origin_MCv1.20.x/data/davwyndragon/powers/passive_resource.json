@@ -2099,6 +2099,9 @@
 					"resource": "davwyndragon:hover_mode_resource",
 					"comparison": "==",
 					"compare_to": 0
+				},
+				{
+					"type": "origins:sprinting"
 				}
 			]
 		}

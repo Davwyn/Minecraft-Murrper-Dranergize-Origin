@@ -1,9 +1,0 @@
-{
-	"hidden": true,
-	"type": "origins:multiple",
-	"roll_dash_update_overtime":{
-		"type": "origins:action_over_time",
-		"entity_action": [],
-		"interval": 1
-	}
-}
