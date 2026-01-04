@@ -128,6 +128,8 @@ Your dragon species doesn't rawr, you 'Murrp'.
 
 - Added several more mobs to the Friendly Starwisp whitelist (energyorb_nontarget.json) from multiple mods and vanilla.
 
+- Slight texture change to figura model to make sparks and slashes match beam colours.
+
 # License
 
 License as per the same license by FutaraDragon's Mod:
