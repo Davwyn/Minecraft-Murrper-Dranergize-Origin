@@ -19,7 +19,7 @@ Use your plasma breath, summon Starwisps, heal allies, and more with this custom
 
 [Figura Mod](https://modrinth.com/mod/figura)
 
-[Pehkui Mod](https://modrinth.com/mod/pehkui) (Optional, adjusts player hitbox)
+[Pehkui Mod](https://modrinth.com/mod/pehkui) (Optional, adjusts player hitbox and step-up one block)
 
 ## Installing the Figura Model
 The custom Figura dragon model is required to be installed with this Origin, otherwise you won't be able to see any of the visual effects of your abilities.
@@ -58,10 +58,6 @@ You can dig through soft ores, stone, sand, and dirt with your claws as if you h
 
 You have paws and a maw which limit your ability to wield weapons. You can't swing swords or use ranged weapons.
 
-**Hunger Usage**
-
-Activities like running, jumping, and special moves that use stamina all affect your hunger.
-
 **Hunger Effect Immune**
 
 You have an resiliant stomach. Poisonous food can't give you the 'Hunger' effect.
@@ -70,21 +66,18 @@ You have an resiliant stomach. Poisonous food can't give you the 'Hunger' effect
 
 Beyond using up all of your stamina, running, jumping, and other activities use up your hunger bar. You'll need to eat more often when very active.
 
-**Fall Immune**
-
-Your wings protect you from any fall damage, even if you haven't unlocked flight yet.
-
 **No Horde Party**
 
 Horde Party from FutaraDragon race is removed. No surprise monsters appear.
 
 **Crystal Harvest**
 
-Your starwisp abilities allow you to convert sand into crystal.\nEither put sand on your back (Offhand), Sneak and click the 'Place' button while looking into empty space, or have someone else 'Sneak' while they 'Place' sand on you to in the order of likelihood harvest glass, tinted glass, amethyst, or quartz at random.
+Your starwisp abilities allow you to convert sand into crystal. Either put sand on your back (Offhand), or have someone else 'Place' sand on you to harvest from you in the order of likelihood harvest glass, tinted glass, amethyst, or quartz at random.
 
 **Starwisp Dust**
 
-Your scales are covered in soft glowing starwisp dust which can be collected.\nEither put an empty bottle on your back (Offhand), Sneak and click the 'Place' button while looking into empty space, or have someone else 'Sneak' while they 'Use' an empty bottle on you to harvest this dust into the bottle. The dust when used grants temporary night-vision by making user glow.
+Your scales are covered in soft glowing starwisp dust which can be collected.
+Either put an empty bottle on your back (Offhand), Sneak and click the 'Place' button while looking into empty space, or have someone else 'Sneak' while they 'Use' an empty bottle on you to harvest this dust into the bottle. The dust when used grants temporary night-vision by making user glow.
 
 **Low-Light Vision**
 
@@ -96,7 +89,7 @@ Because of the starwisp dust on your scales you always give off a soft light.
 
 **Slightly shorter**
 
-You're slightly smaller than a human.\n(Requires Pehkui mod).
+You're slightly smaller than a human, but can easily vault up 1 block steps. (Requires Pehkui mod).
 
 **Plasma Beam**
 
@@ -104,7 +97,7 @@ Davwyn's Plasma Beam is essentially identical to Futara's Hyper-Beam other than 
 
 **Plasma Blast**
 
-Davwyn's powers are plasma-based. Futara's Plasma Blast is renamed to Plasma Blast.
+Davwyn's powers are plasma-based. Futara's Fire Blast is renamed to Plasma Blast.
 
 **Plasma Bolt**
 
